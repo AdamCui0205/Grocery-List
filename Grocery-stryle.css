@@ -1,0 +1,57 @@
+#div1{
+    text-align: left;
+    height: 100px;
+    width: 30%;
+    background-color: aquamarine;
+    float: left;
+}
+
+#div2{
+    text-align: left;
+    height: 100px;
+    width: 30%;
+    background-color: aquamarine;
+    float: left;
+}
+
+#div3{
+    text-align: left;
+    height: 100px;
+    width: 30%;
+    background-color: aquamarine;
+    float: left;
+}
+
+#div4{
+    text-align: left;
+    height: 100px;
+    width: 30%;
+    background-color: aquamarine;
+    float: left;
+}
+
+
+
+#heading1{
+    text-align: left;
+    height: 50px;
+    width: 400px;
+    background-color: rgb(127, 191, 255);
+}
+#heading2{
+    text-align: left;
+    height: 150px;
+    width: 400px;
+    background-color: rgb(127, 191, 255);
+}
+
+header{
+text-align: center;
+font-size: xx-large;
+}
+
+img{
+    float: right;
+    height: 100px;
+    width: 30%
+}
